@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 [![Papers](https://img.shields.io/badge/Papers-255-blue.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/papers)
-[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-84-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
+[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-85-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
 
 
 ## 👋 Introduction
@@ -108,6 +108,7 @@ To systematically organize the diverse research and practical resources in the f
 
 ## 🔔 Recent hot research and news
 
++ 2026-03-03 - 🎉 Add a new code agent to this repo
 + 2026-02-27 - 🎉 Updated 20 papers, including 1 on survey, 2 on systems and models, 2 on benchmarks, and 15 on methods
 + 2026-02-26 - 🎉 Updated 14 papers, including 14 on methods
 + 2026-02-14 - 🎉 Updated 15 papers, including 1 on survey, 12 on methods, 1 on benchmarks, and 1 on systems and models
@@ -5190,6 +5191,7 @@ Systems below are ordered by **publication date**:
 | MineContext | 2025-09-30 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/MineContext?style=social) | https://github.com/volcengine/MineContext<br>No official website |
 | EverMemOS   | 2025-10-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=social) | https://github.com/EverMind-AI/EverMemOS<br>https://evermind.ai/ |
 | MemoryBear  | 2025-12-17 | ![GitHub Repo stars](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear?style=social) | https://github.com/SuanmoSuanyangTechnology/MemoryBear<br>https://www.memorybear.ai/ |
+| OMEGA  | 2025-12-17 | ![GitHub Repo stars](https://img.shields.io/github/stars/omega-memory/omega-memory?style=social) | https://github.com/omega-memory/omega-memory<br>https://omegamax.co/ |
 
 ### 🎥 Multi-media resource
 

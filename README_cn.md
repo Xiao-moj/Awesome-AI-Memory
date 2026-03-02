@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 [![Papers](https://img.shields.io/badge/Papers-255-blue.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/papers)
-[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-84-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
+[![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Projects-85-green.svg)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/projects)
 
 
 ## 👋 简介
@@ -107,6 +107,7 @@ To systematically organize the diverse research and practical resources in the f
 
 ## 🔔 近期热点研究与新闻
 
++ 2026-03-03 - 🎉 新增一个代码agent到仓库中
 + 2026-02-27 - 🎉 更新20篇论文，综述类1篇, 系统&模型类2篇，Benchmark类2篇，方法类15篇。
 + 2026-02-26 - 🎉 更新14篇论文，方法类14篇
 + 2026-02-14 - 🎉 更新15篇论文，综述类1篇，方法类12篇，benchmark类1篇，系统与模型类1篇
@@ -5165,6 +5166,7 @@ Framework for Experience-Driven Agent Evolution</strong></td>
 | MineContext | 2025-09-30 | ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/MineContext?style=social) | https://github.com/volcengine/MineContext<br>No official website |
 | EverMemOS   | 2025-10-29 | ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=social) | https://github.com/EverMind-AI/EverMemOS<br>https://evermind.ai/ |
 | MemoryBear  | 2025-12-17 | ![GitHub Repo stars](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear?style=social) | https://github.com/SuanmoSuanyangTechnology/MemoryBear<br>https://www.memorybear.ai/ |
+| OMEGA  | 2025-12-17 | ![GitHub Repo stars](https://img.shields.io/github/stars/omega-memory/omega-memory?style=social) | https://github.com/omega-memory/omega-memory<br>https://omegamax.co/ |
 
 ### 🎥 多媒体资源
 
